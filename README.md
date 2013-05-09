@@ -39,4 +39,5 @@ A running list of software and preferences for my dev machine.
 
 ## Misc.
 
+  * [.gitconfig](https://gist.github.com/jonchretien/5550236)
   * [Bash Profile](https://gist.github.com/jonchretien/1125984)
