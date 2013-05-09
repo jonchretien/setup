@@ -1,4 +1,42 @@
-setup
-=====
+# Setup
 
 A running list of software and preferences for my dev machine.
+
+## Software
+
+  * [Alfred App](http://www.alfredapp.com)
+  * [Dropbox](https://www.dropbox.com)
+  * [Evernote](https://evernote.com)
+  * [Git](http://git-scm.com/downloads)
+  * [GitX](http://gitx.frim.nl)
+  * [Grunt](http://gruntjs.com/getting-started)
+  * [Node](http://nodejs.org)
+  * [Photoshop](http://www.photoshop.com)
+  * [Skype](http://www.skype.com/en/)
+  * [Sublime Text](http://www.sublimetext.com)
+  * [Transmit](http://panic.com/transmit/)
+
+## NPM
+
+  * [Bower](http://bower.io): npm install -g bower
+  * [Less](http://lesscss.org): npm install -g less
+  * [JSHint](http://jshint.com/install/): npm install -g jshint
+  * [UglifyJS](https://github.com/mishoo/UglifyJS2): npm install -g uglify-js
+
+## Ruby Gems
+
+  * [Sass](http://sass-lang.com): gem install sass
+
+## Sublime Text 2
+
+  * [Emmet](http://emmet.io/download/)
+  * [Package Control](http://wbond.net/sublime_packages/package_control/installation)
+  * [Snippets](https://github.com/jonchretien/sublime-snippets)
+  * [Soda Theme](https://github.com/buymeasoda/soda-theme/)
+
+## Keyboard Shortcuts
+  * Terminal > Switch Tabs: Option + Command + &rarr;
+
+## Misc.
+
+  * [Bash Profile](https://gist.github.com/jonchretien/1125984)
