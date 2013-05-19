@@ -29,6 +29,7 @@ A running list of software and preferences for my dev machine.
 
 ## Sublime Text 2
 
+  * [Elliot Jackson's Icon](http://blog.alexmaccaw.com/sublime-text)
   * [Emmet](http://emmet.io/download/)
   * [Package Control](http://wbond.net/sublime_packages/package_control/installation)
   * [Snippets](https://github.com/jonchretien/sublime-snippets)
