@@ -10,6 +10,7 @@ A running list of software and preferences for my dev machine.
   * [Git](http://git-scm.com/downloads)
   * [GitX](http://gitx.frim.nl)
   * [Grunt](http://gruntjs.com/getting-started)
+  * [LimeChat](http://limechat.net/mac/) with [Solarized Theme](https://github.com/paulcpederson/solarized-limechat)
   * [Node](http://nodejs.org)
   * [Photoshop](http://www.photoshop.com)
   * [Skype](http://www.skype.com/en/)
