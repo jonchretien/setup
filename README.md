@@ -8,12 +8,10 @@ A running list of software and preferences for my dev machine.
   * [Dropbox](https://www.dropbox.com)
   * [Evernote](https://evernote.com)
   * [Git](http://git-scm.com/downloads)
-  * [GitX](http://gitx.frim.nl)
   * [Grunt](http://gruntjs.com/getting-started)
   * [LimeChat](http://limechat.net/mac/) with [Solarized Theme](https://github.com/paulcpederson/solarized-limechat)
   * [Node](http://nodejs.org)
   * [Photoshop](http://www.photoshop.com)
-  * [Skype](http://www.skype.com/en/)
   * [Sublime Text](http://www.sublimetext.com)
   * [Transmit](http://panic.com/transmit/)
 
@@ -41,6 +39,5 @@ A running list of software and preferences for my dev machine.
 
 ## Misc.
 
-  * [.gitconfig](https://gist.github.com/jonchretien/5550236)
-  * [Bash Profile](https://gist.github.com/jonchretien/1125984)
+  * [dotfiles](https://github.com/jonchretien/dotfiles)
   * [Homebrew](http://brew.sh/)
