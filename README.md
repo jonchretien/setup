@@ -7,6 +7,7 @@ A running list of software and preferences for my dev machine.
   * [Dropbox](https://www.dropbox.com)
   * [Evernote](https://evernote.com)
   * [Git](http://git-scm.com/downloads)
+  * [iTerm2](https://iterm2.com)
   * [Photoshop](http://www.photoshop.com)
   * [Slack](https://itunes.apple.com/app/slack/id803453959?ls=1&mt=12)
   * [Spotify](https://www.spotify.com/us/download/)
@@ -36,9 +37,6 @@ A running list of software and preferences for my dev machine.
   * [Package Control](http://wbond.net/sublime_packages/package_control/installation)
   * [Snippets](https://github.com/jonchretien/sublime-snippets)
   * [Soda Theme](https://github.com/buymeasoda/soda-theme/)
-
-## Keyboard Shortcuts
-  * Terminal > Switch Tabs: Option + Command + &rarr;
 
 ## Misc.
 
