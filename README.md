@@ -4,29 +4,30 @@ A running list of software and preferences for my dev machine.
 
 ## Software
 
-  * [Alfred App](http://www.alfredapp.com)
   * [Dropbox](https://www.dropbox.com)
   * [Evernote](https://evernote.com)
   * [Git](http://git-scm.com/downloads)
-  * [Grunt](http://gruntjs.com/getting-started)
-  * [LimeChat](http://limechat.net/mac/) with [Solarized Theme](https://github.com/paulcpederson/solarized-limechat)
   * [Node](http://nodejs.org)
+  * [NVM](https://github.com/creationix/nvm)
   * [Photoshop](http://www.photoshop.com)
   * [Sublime Text](http://www.sublimetext.com)
   * [Transmit](http://panic.com/transmit/)
 
 ## NPM
 
-  * [Bower](http://bower.io): npm install -g bower
-  * [Less](http://lesscss.org): npm install -g less
-  * [JSHint](http://jshint.com/install/): npm install -g jshint
-  * [UglifyJS](https://github.com/mishoo/UglifyJS2): npm install -g uglify-js
+  * [Bower](http://bower.io): `npm install -g bower`
+  * [ESLint](http://eslint.org/docs/user-guide/command-line-interface): `npm i -g eslint`
+  * [Less](http://lesscss.org): `npm install -g less`
+  * [JSHint](http://jshint.com/install/): `npm install -g jshint`
+  * [Grunt](http://gruntjs.com/getting-started): `npm install -g grunt-cli`
+  * [Gulp](http://gulpjs.com): `npm install --global gulp`
+  * [UglifyJS](https://github.com/mishoo/UglifyJS2): `npm install -g uglify-js`
 
 ## Ruby Gems
 
   * [Sass](http://sass-lang.com): gem install sass
 
-## Sublime Text 2
+## Sublime Text
 
   * [Elliot Jackson's Icon](http://blog.alexmaccaw.com/sublime-text)
   * [Emmet](http://emmet.io/download/)
