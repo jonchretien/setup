@@ -9,6 +9,7 @@ A running list of software and preferences for my dev machine.
   * [Git](http://git-scm.com/downloads)
   * [Photoshop](http://www.photoshop.com)
   * [Slack](https://itunes.apple.com/app/slack/id803453959?ls=1&mt=12)
+  * [Spotify](https://www.spotify.com/us/download/)
   * [Sublime Text](http://www.sublimetext.com)
   * [Transmit](http://panic.com/transmit/)
 
