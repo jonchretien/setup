@@ -13,6 +13,7 @@ A running list of software and preferences for my dev machine.
   * [Spotify](https://www.spotify.com/us/download/)
   * [Sublime Text](http://www.sublimetext.com)
   * [Transmit](http://panic.com/transmit/)
+  * [Tweetbot](https://itunes.apple.com/us/app/tweetbot-for-twitter/id557168941?mt=12&at=11l4Hu)
 
 ## Node / NPM
 
