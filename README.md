@@ -4,6 +4,7 @@ A running list of software and preferences for my dev machine.
 
 ## Software
 
+  * [Dash 3](https://itunes.apple.com/us/app/dash-3-api-docs-snippets/id449589707?mt=12)
   * [Dropbox](https://www.dropbox.com)
   * [Evernote](https://evernote.com)
   * [Git](http://git-scm.com/downloads)
