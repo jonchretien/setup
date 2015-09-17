@@ -38,6 +38,8 @@ A running list of software and preferences for my dev machine.
   * [Package Control](http://wbond.net/sublime_packages/package_control/installation)
   * [Snippets](https://github.com/jonchretien/sublime-snippets)
   * [Soda Theme](https://github.com/buymeasoda/soda-theme/)
+  * [User Key Bindings](https://gist.github.com/jonchretien/4565081)
+  * [User Settings](https://gist.github.com/jonchretien/4565038)
 
 ## Browsers
   * [Chrome](http://www.google.com/chrome)
