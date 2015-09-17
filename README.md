@@ -19,6 +19,11 @@ A running list of software and preferences for my dev machine.
   * [Atom](https://atom.io)
   * [Sublime Text](http://www.sublimetext.com)
 
+### Packages
+  * [Package Control](http://wbond.net/sublime_packages/package_control/installation)
+  * [Snippets](https://github.com/jonchretien/sublime-snippets)
+  * [Soda Theme](https://github.com/buymeasoda/soda-theme/)
+
 ## Browsers
   * [Chrome](http://www.google.com/chrome)
   * [Firefox](http://www.firefox.com/)
@@ -35,14 +40,6 @@ A running list of software and preferences for my dev machine.
 ## Ruby Gems
 
   * [Sass](http://sass-lang.com): gem install sass
-
-## Sublime Text
-
-  * [Elliot Jackson's Icon](http://blog.alexmaccaw.com/sublime-text)
-  * [Emmet](http://emmet.io/download/)
-  * [Package Control](http://wbond.net/sublime_packages/package_control/installation)
-  * [Snippets](https://github.com/jonchretien/sublime-snippets)
-  * [Soda Theme](https://github.com/buymeasoda/soda-theme/)
 
 ## Misc.
 
