@@ -16,6 +16,10 @@ A running list of software and preferences for my dev machine.
   * [Transmit](http://panic.com/transmit/)
   * [Tweetbot](https://itunes.apple.com/us/app/tweetbot-for-twitter/id557168941?mt=12&at=11l4Hu)
 
+## Browsers
+  * [Chrome](http://www.google.com/chrome)
+  * [Firefox](http://www.firefox.com/)
+
 ## Node / NPM
 
   * [Bower](http://bower.io): `npm install -g bower`
