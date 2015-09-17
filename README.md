@@ -7,7 +7,6 @@ A running list of software and preferences for my dev machine.
   * [Dash 3](https://itunes.apple.com/us/app/dash-3-api-docs-snippets/id449589707?mt=12)
   * [Dropbox](https://www.dropbox.com)
   * [Evernote](https://evernote.com)
-  * [Git](http://git-scm.com/downloads)
   * [Photoshop](http://www.photoshop.com)
   * [Slack](https://itunes.apple.com/app/slack/id803453959?ls=1&mt=12)
   * [Spotify](https://www.spotify.com/us/download/)
@@ -17,16 +16,16 @@ A running list of software and preferences for my dev machine.
 ## Command Line
   * [Xcode](https://itunes.apple.com/us/app/xcode/id497799835?mt=12)
   * [iTerm2](https://iterm2.com)
+  * [Git](http://git-scm.com/downloads)
   * [dotfiles](https://github.com/jonchretien/dotfiles)
   * [Homebrew](http://brew.sh/)
 
 ### Node / NPM
+  * Node ([through NVM](https://github.com/creationix/nvm))
   * [Bower](http://bower.io): `npm install -g bower`
-  * [ESLint](http://eslint.org/docs/user-guide/command-line-interface): `npm i -g eslint`
   * [Grunt](http://gruntjs.com/getting-started): `npm install -g grunt-cli`
   * [Gulp](http://gulpjs.com): `npm install --global gulp`
-  * [Node](https://github.com/creationix/nvm) (through NVM)
-  * [NVM](https://github.com/creationix/nvm)
+  * [ESLint](http://eslint.org/docs/user-guide/command-line-interface): `npm i -g eslint`
 
 ### Ruby Gems
   * [Sass](http://sass-lang.com): gem install sass
