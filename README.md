@@ -24,7 +24,7 @@ A running list of software and preferences for my dev machine.
   * Node ([through NVM](https://github.com/creationix/nvm))
   * [Bower](http://bower.io): `npm install -g bower`
   * [Grunt](http://gruntjs.com/getting-started): `npm install -g grunt-cli`
-  * [Gulp](http://gulpjs.com): `npm install --global gulp`
+  * [Gulp](http://gulpjs.com): `npm install -g gulp`
   * [ESLint](http://eslint.org/docs/user-guide/command-line-interface): `npm i -g eslint`
 
 ### Ruby Gems
