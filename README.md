@@ -20,7 +20,7 @@ A running list of software and preferences for my dev machine.
   * [dotfiles](https://github.com/jonchretien/dotfiles)
   * [Homebrew](http://brew.sh/)
 
-### Node / NPM
+### Node & NPM
   * Node ([through NVM](https://github.com/creationix/nvm))
   * [Bower](http://bower.io): `npm install -g bower`
   * [Grunt](http://gruntjs.com/getting-started): `npm install -g grunt-cli`
