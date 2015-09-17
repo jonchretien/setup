@@ -12,9 +12,12 @@ A running list of software and preferences for my dev machine.
   * [Photoshop](http://www.photoshop.com)
   * [Slack](https://itunes.apple.com/app/slack/id803453959?ls=1&mt=12)
   * [Spotify](https://www.spotify.com/us/download/)
-  * [Sublime Text](http://www.sublimetext.com)
   * [Transmit](http://panic.com/transmit/)
   * [Tweetbot](https://itunes.apple.com/us/app/tweetbot-for-twitter/id557168941?mt=12&at=11l4Hu)
+
+## Text Editors
+  * [Atom](https://atom.io)
+  * [Sublime Text](http://www.sublimetext.com)
 
 ## Browsers
   * [Chrome](http://www.google.com/chrome)
