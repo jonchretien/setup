@@ -33,7 +33,7 @@ A running list of software and preferences for my dev machine.
   * [Atom](https://atom.io)
   * [Sublime Text](http://www.sublimetext.com)
 
-### Packages
+### Sublime Settings & Packages
   * [Package Control](http://wbond.net/sublime_packages/package_control/installation)
   * [Snippets](https://github.com/jonchretien/sublime-snippets)
   * [Soda Theme](https://github.com/buymeasoda/soda-theme/)
