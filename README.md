@@ -39,6 +39,7 @@ A running list of software and preferences for my dev machine.
   * [Soda Theme](https://github.com/buymeasoda/soda-theme/)
   * [User Key Bindings](https://gist.github.com/jonchretien/4565081)
   * [User Settings](https://gist.github.com/jonchretien/4565038)
+  * [Launch Sublime from Terminal](https://gist.github.com/artero/1236170)
   * [Default Syntax Highlighting](http://www.codechewing.com/library/set-default-syntax-highlight-for-different-filetypes-sublime-text/)
 
 ## Browsers
