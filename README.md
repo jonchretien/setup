@@ -19,6 +19,8 @@ A running list of software and preferences for my dev machine.
   * [Git](http://git-scm.com/downloads)
   * [dotfiles](https://github.com/jonchretien/dotfiles)
   * [Homebrew](http://brew.sh/)
+    - wget: `brew install wget`
+    - jq: `brew install jq`
 
 ### Node & NPM
   * Node ([through NVM](https://github.com/creationix/nvm))
