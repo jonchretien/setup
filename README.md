@@ -17,6 +17,7 @@ A running list of software and preferences for my dev machine.
   * [Xcode](https://itunes.apple.com/us/app/xcode/id497799835?mt=12)
   * [iTerm2](https://iterm2.com)
   * [Git](http://git-scm.com/downloads)
+    - [Github access token](https://help.github.com/articles/creating-an-access-token-for-command-line-use/)
   * [dotfiles](https://github.com/jonchretien/dotfiles)
   * [Homebrew](http://brew.sh/)
     - wget: `brew install wget`
