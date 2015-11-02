@@ -44,6 +44,7 @@ A running list of software and preferences for my dev machine.
   * [User Settings](https://gist.github.com/jonchretien/4565038)
   * [Launch Sublime from Terminal](https://gist.github.com/artero/1236170)
   * [Default Syntax Highlighting](http://www.codechewing.com/library/set-default-syntax-highlight-for-different-filetypes-sublime-text/)
+  * [JavaScript Next](https://github.com/Benvie/JavaScriptNext.tmLanguage)
 
 ## Browsers
   * [Chrome](http://www.google.com/chrome)
