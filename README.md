@@ -12,6 +12,7 @@ A running list of software and preferences for my dev machine.
   * [Spotify](https://www.spotify.com/us/download/)
   * [Transmit](http://panic.com/transmit/)
   * [Tweetbot](https://itunes.apple.com/us/app/tweetbot-for-twitter/id557168941?mt=12&at=11l4Hu)
+  * [VirtualBox](https://www.virtualbox.org/wiki/Downloads)
 
 ## Command Line
   * [Xcode](https://itunes.apple.com/us/app/xcode/id497799835?mt=12)
