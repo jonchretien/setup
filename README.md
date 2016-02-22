@@ -51,3 +51,4 @@ A running list of software and preferences for my dev machine.
   * [Chrome](http://www.google.com/chrome)
   * [Chrome Canary](https://www.google.com/chrome/browser/canary.html)
   * [Firefox](http://www.firefox.com/)
+  * [Firefox Developer Edition](https://www.mozilla.org/en-US/firefox/developer/)
