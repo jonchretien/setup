@@ -34,13 +34,12 @@ A running list of software and preferences for my dev machine.
   * [Sass](http://sass-lang.com): gem install sass
 
 ## Text Editors
-  * [Atom](https://atom.io)
   * [Sublime Text](http://www.sublimetext.com)
 
 ### Sublime Settings & Packages
   * [Package Control](http://wbond.net/sublime_packages/package_control/installation)
   * [Snippets](https://github.com/jonchretien/sublime-snippets)
-  * [Soda Theme](https://github.com/buymeasoda/soda-theme/)
+  * [Material Theme](https://github.com/equinusocio/material-theme)
   * [User Key Bindings](https://gist.github.com/jonchretien/4565081)
   * [User Settings](https://gist.github.com/jonchretien/4565038)
   * [Launch Sublime from Terminal](https://gist.github.com/artero/1236170)
