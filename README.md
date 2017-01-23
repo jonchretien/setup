@@ -33,18 +33,27 @@ A running list of software and preferences for my dev machine.
 ### Ruby Gems
   * [Sass](http://sass-lang.com): gem install sass
 
-## Text Editors
+## Sublime
   * [Sublime Text](http://www.sublimetext.com)
 
-### Sublime Settings & Packages
-  * [Package Control](http://wbond.net/sublime_packages/package_control/installation)
+### Settings
   * [Snippets](https://github.com/jonchretien/sublime-snippets)
-  * [Material Theme](https://github.com/equinusocio/material-theme)
   * [User Key Bindings](https://gist.github.com/jonchretien/4565081)
   * [User Settings](https://gist.github.com/jonchretien/4565038)
   * [Launch Sublime from Terminal](https://gist.github.com/artero/1236170)
+
+### Packages
+  * [Package Control](https://packagecontrol.io/installation)
+  * [Material Theme](https://github.com/equinusocio/material-theme)
   * [Default Syntax Highlighting](http://www.codechewing.com/library/set-default-syntax-highlight-for-different-filetypes-sublime-text/)
   * [JavaScript Next](https://github.com/Benvie/JavaScriptNext.tmLanguage)
+  * [Babel](https://packagecontrol.io/packages/Babel)
+  * [LESS](https://packagecontrol.io/packages/LESS)
+  * [Sass](https://packagecontrol.io/packages/Sass)
+  * [SublimeLinter](https://packagecontrol.io/packages/SublimeLinter)
+  * [SublimeLinter-contrib-eslint](https://packagecontrol.io/packages/SublimeLinter-contrib-eslint)
+  * [SublimeLinter-contrib-stylelint](https://packagecontrol.io/packages/SublimeLinter-contrib-stylelint)
+  * [zz File Icons](https://packagecontrol.io/packages/zz%20File%20Icons)
 
 ## Browsers
   * [Chrome](http://www.google.com/chrome)
