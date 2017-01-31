@@ -7,6 +7,8 @@ A running list of software and preferences for my dev machine.
   * [Dash 3](https://itunes.apple.com/us/app/dash-3-api-docs-snippets/id449589707?mt=12)
   * [Dropbox](https://www.dropbox.com)
   * [Evernote](https://evernote.com)
+  * [FFmpeg](https://ffmpeg.org/)
+  * [Kap](https://getkap.co)
   * [Photoshop](http://www.photoshop.com)
   * [Slack](https://itunes.apple.com/app/slack/id803453959?ls=1&mt=12)
   * [Spotify](https://www.spotify.com/us/download/)
