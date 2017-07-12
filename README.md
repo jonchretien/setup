@@ -43,19 +43,19 @@ A running list of software and preferences for my dev machine.
   * [User Key Bindings](https://gist.github.com/jonchretien/4565081)
   * [User Settings](https://gist.github.com/jonchretien/4565038)
   * [Launch Sublime from Terminal](https://gist.github.com/artero/1236170)
+  * [Default Syntax Highlighting](http://www.codechewing.com/library/set-default-syntax-highlight-for-different-filetypes-sublime-text/)
 
 ### Packages
   * [Package Control](https://packagecontrol.io/installation)
-  * [Material Theme](https://github.com/equinusocio/material-theme)
-  * [Default Syntax Highlighting](http://www.codechewing.com/library/set-default-syntax-highlight-for-different-filetypes-sublime-text/)
-  * [JavaScript Next](https://github.com/Benvie/JavaScriptNext.tmLanguage)
+  * [A File Icon](https://github.com/ihodev/a-file-icon)
   * [Babel](https://packagecontrol.io/packages/Babel)
+  * [Emmet](https://packagecontrol.io/packages/Emmet)
   * [LESS](https://packagecontrol.io/packages/LESS)
+  * [Material Theme](https://github.com/equinusocio/material-theme)
   * [Sass](https://packagecontrol.io/packages/Sass)
   * [SublimeLinter](https://packagecontrol.io/packages/SublimeLinter)
   * [SublimeLinter-contrib-eslint](https://packagecontrol.io/packages/SublimeLinter-contrib-eslint)
-  * [SublimeLinter-contrib-stylelint](https://packagecontrol.io/packages/SublimeLinter-contrib-stylelint)
-  * [zz File Icons](https://packagecontrol.io/packages/zz%20File%20Icons)
+  * [SublimeLinter-contrib-stylelint](https://packagecontrol.io/packages/SublimeLinter-contrib-stylelint)  
 
 ## Browsers
   * [Chrome](http://www.google.com/chrome)
