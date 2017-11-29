@@ -11,6 +11,8 @@ A running list of software and preferences for my development machine.
 3. [Terminal](Terminal/README.md)
 4. [Browsers](Browsers/README.md)
 5. [Text Editors](TextEditors/README.md)
+6. [Ruby](Ruby/README.md)
+7. [Rails](Rails/README.md)
 
 ## Inspiration
 
@@ -38,6 +40,3 @@ Nicolas Hery's [Mac OS X Dev Setup](https://github.com/nicolashery/mac-dev-setup
   * [Bower](http://bower.io): `npm install -g bower`
   * [Grunt](http://gruntjs.com/getting-started): `npm install -g grunt-cli`
   * [Gulp](http://gulpjs.com): `npm install -g gulp`
-
-### Ruby Gems
-  * [Sass](http://sass-lang.com): gem install sass
