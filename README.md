@@ -6,7 +6,7 @@ A running list of software and preferences for my development machine.
 
 ## Table of Contents
 
-1. OS Updates
+1. [System](System/README.md)
 2. Xcode
 3. Terminal
 4. Browsers
@@ -15,6 +15,7 @@ A running list of software and preferences for my development machine.
 ## Inspiration
 
 Sourabh Bajaj's [Mac Setup Guide](https://github.com/sb2nov/mac-setup).
+Nicolas Hery's [Mac OS X Dev Setup](https://github.com/nicolashery/mac-dev-setup)
 
 -------------
 
