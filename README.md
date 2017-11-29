@@ -10,7 +10,7 @@ A running list of software and preferences for my development machine.
 2. [Xcode](Xcode/README.md)
 3. [Terminal](Terminal/README.md)
 4. [Browsers](Browsers/README.md)
-5. Text Editors
+5. [Text Editors](TextEditors/README.md)
 
 ## Inspiration
 
@@ -41,25 +41,3 @@ Nicolas Hery's [Mac OS X Dev Setup](https://github.com/nicolashery/mac-dev-setup
 
 ### Ruby Gems
   * [Sass](http://sass-lang.com): gem install sass
-
-## Sublime
-  * [Sublime Text](http://www.sublimetext.com)
-
-### Settings
-  * [Snippets](https://github.com/jonchretien/sublime-snippets)
-  * [User Key Bindings](https://gist.github.com/jonchretien/4565081)
-  * [User Settings](https://gist.github.com/jonchretien/4565038)
-  * [Launch Sublime from Terminal](https://gist.github.com/artero/1236170)
-  * [Default Syntax Highlighting](http://www.codechewing.com/library/set-default-syntax-highlight-for-different-filetypes-sublime-text/)
-
-### Packages
-  * [Package Control](https://packagecontrol.io/installation)
-  * [A File Icon](https://github.com/ihodev/a-file-icon)
-  * [Babel](https://packagecontrol.io/packages/Babel)
-  * [Emmet](https://packagecontrol.io/packages/Emmet)
-  * [LESS](https://packagecontrol.io/packages/LESS)
-  * [Material Theme](https://github.com/equinusocio/material-theme)
-  * [Sass](https://packagecontrol.io/packages/Sass)
-  * [SublimeLinter](https://packagecontrol.io/packages/SublimeLinter)
-  * [SublimeLinter-contrib-eslint](https://packagecontrol.io/packages/SublimeLinter-contrib-eslint)
-  * [SublimeLinter-contrib-stylelint](https://packagecontrol.io/packages/SublimeLinter-contrib-stylelint)  
