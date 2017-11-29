@@ -8,7 +8,7 @@ A running list of software and preferences for my development machine.
 
 1. [System](System/README.md)
 2. [Xcode](Xcode/README.md)
-3. Terminal
+3. [Terminal](Terminal/README.md)
 4. Browsers
 5. Text Editors
 
@@ -32,16 +32,6 @@ Nicolas Hery's [Mac OS X Dev Setup](https://github.com/nicolashery/mac-dev-setup
   * [Transmit](http://panic.com/transmit/)
   * [Tweetbot](https://itunes.apple.com/us/app/tweetbot-for-twitter/id557168941?mt=12&at=11l4Hu)
   * [VirtualBox](https://www.virtualbox.org/wiki/Downloads)
-
-## Command Line
-  * [Xcode](https://itunes.apple.com/us/app/xcode/id497799835?mt=12)
-  * [iTerm2](https://iterm2.com)
-  * [Git](http://git-scm.com/downloads)
-    - [Github access token](https://help.github.com/articles/creating-an-access-token-for-command-line-use/)
-  * [dotfiles](https://github.com/jonchretien/dotfiles)
-  * [Homebrew](http://brew.sh/)
-    - wget: `brew install wget`
-    - jq: `brew install jq`
 
 ### Node & NPM
   * Node ([through NVM](https://github.com/creationix/nvm))
