@@ -13,6 +13,8 @@ A running list of software and preferences for my development machine.
 5. [Text Editors](TextEditors/README.md)
 6. [Ruby](Ruby/README.md)
 7. [Rails](Rails/README.md)
+8. [Node](Node/README.md)
+9. [Yarn](Yarn/README.md)
 
 ## Inspiration
 
@@ -34,9 +36,3 @@ Nicolas Hery's [Mac OS X Dev Setup](https://github.com/nicolashery/mac-dev-setup
   * [Transmit](http://panic.com/transmit/)
   * [Tweetbot](https://itunes.apple.com/us/app/tweetbot-for-twitter/id557168941?mt=12&at=11l4Hu)
   * [VirtualBox](https://www.virtualbox.org/wiki/Downloads)
-
-### Node & NPM
-  * Node ([through NVM](https://github.com/creationix/nvm))
-  * [Bower](http://bower.io): `npm install -g bower`
-  * [Grunt](http://gruntjs.com/getting-started): `npm install -g grunt-cli`
-  * [Gulp](http://gulpjs.com): `npm install -g gulp`
