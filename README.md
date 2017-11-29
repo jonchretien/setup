@@ -1,6 +1,22 @@
-# Setup
+# Setting up a new machine
 
-A running list of software and preferences for my dev machine.
+A running list of software and preferences for my development machine.
+
+**Note:** this applies to a Mac OS environment.
+
+## Table of Contents
+
+1. OS Updates
+2. Xcode
+3. Terminal
+4. Browsers
+5. Text Editors
+
+## Inspiration
+
+Sourabh Bajaj's [Mac Setup Guide](https://github.com/sb2nov/mac-setup).
+
+-------------
 
 ## Software
 
