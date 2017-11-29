@@ -7,7 +7,7 @@ A running list of software and preferences for my development machine.
 ## Table of Contents
 
 1. [System](System/README.md)
-2. Xcode
+2. [Xcode](Xcode/README.md)
 3. Terminal
 4. Browsers
 5. Text Editors
