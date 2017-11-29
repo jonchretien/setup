@@ -9,7 +9,7 @@ A running list of software and preferences for my development machine.
 1. [System](System/README.md)
 2. [Xcode](Xcode/README.md)
 3. [Terminal](Terminal/README.md)
-4. Browsers
+4. [Browsers](Browsers/README.md)
 5. Text Editors
 
 ## Inspiration
@@ -63,10 +63,3 @@ Nicolas Hery's [Mac OS X Dev Setup](https://github.com/nicolashery/mac-dev-setup
   * [SublimeLinter](https://packagecontrol.io/packages/SublimeLinter)
   * [SublimeLinter-contrib-eslint](https://packagecontrol.io/packages/SublimeLinter-contrib-eslint)
   * [SublimeLinter-contrib-stylelint](https://packagecontrol.io/packages/SublimeLinter-contrib-stylelint)  
-
-## Browsers
-  * [Chrome](http://www.google.com/chrome)
-  * [Chrome Canary](https://www.google.com/chrome/browser/canary.html)
-  * [Firefox](http://www.firefox.com/)
-  * [Firefox Developer Edition](https://www.mozilla.org/en-US/firefox/developer/)
-  * [Internet Explorer VMs](https://dev.windows.com/en-us/microsoft-edge/tools/vms/mac/)
