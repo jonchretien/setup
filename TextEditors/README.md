@@ -1,7 +1,6 @@
 # Text Editors
 
-## Sublime
-[Download](http://www.sublimetext.com)
+## [Sublime](http://www.sublimetext.com)
 
 ### Settings
   * [Snippets](https://github.com/jonchretien/sublime-snippets)
@@ -20,10 +19,9 @@
   * [Sass](https://packagecontrol.io/packages/Sass)
   * [SublimeLinter](https://packagecontrol.io/packages/SublimeLinter)
   * [SublimeLinter-contrib-eslint](https://packagecontrol.io/packages/SublimeLinter-contrib-eslint)
-  * [SublimeLinter-contrib-stylelint](https://packagecontrol.io/packages/SublimeLinter-contrib-stylelint)  
+  * [SublimeLinter-contrib-stylelint](https://packagecontrol.io/packages/SublimeLinter-contrib-stylelint)
 
-## Atom
-[Download](https://atom.io/download/mac)
+## [Atom](https://atom.io/download/mac)
 
 ### Packages
 ```

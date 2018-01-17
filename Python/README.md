@@ -1,5 +1,5 @@
 # Python
-https://github.com/rbenv/rbenv
+Note: this instructions are tailored for Python 3.
 
 ```
 brew install python3

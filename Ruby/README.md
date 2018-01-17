@@ -1,5 +1,5 @@
 # Ruby
-https://github.com/rbenv/rbenv
+Install using [rbenv](https://github.com/rbenv/rbenv).
 
 ```
 brew install rbenv

@@ -1,5 +1,4 @@
-# Terminal
-[iTerm2](https://iterm2.com)
+# [Terminal](https://iterm2.com)
 
 ## Git
 * [Git](http://git-scm.com/downloads)
