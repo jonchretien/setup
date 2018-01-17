@@ -1,5 +1,4 @@
-# Yarn
-https://yarnpkg.com/
+# [Yarn](https://yarnpkg.com/)
 
 ```bash
 # Install yarn package manager
