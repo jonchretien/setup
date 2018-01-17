@@ -15,7 +15,8 @@ A running list of software and preferences for my development machine.
 7. [Rails](Rails/README.md)
 8. [Node](Node/README.md)
 9. [Yarn](Yarn/README.md)
-10. [Apps](Apps/README.md)
+10. [Python](Python/README.md)
+11. [Apps](Apps/README.md)
 
 ## Inspiration
 
