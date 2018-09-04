@@ -1,14 +1,12 @@
 # [Terminal](https://iterm2.com)
 
-## Git
-* [Git](http://git-scm.com/downloads)
-  - [Github access token](https://help.github.com/articles/creating-an-access-token-for-command-line-use/)
+## [Git](http://git-scm.com/downloads)
+* [Github access token](https://help.github.com/articles/creating-an-access-token-for-command-line-use/)
 
-## dotfiles
-[dotfiles](https://github.com/jonchretien/dotfiles)
+## [dotfiles](https://github.com/jonchretien/dotfiles)
 
-## Homebrew
-[Homebrew](http://brew.sh/)
+
+## [Homebrew](http://brew.sh/)
 * [ack](https://beyondgrep.com/)
 * [ag](https://github.com/ggreer/the_silver_searcher)
 * [ffmpeg](http://ffmpeg.org/)
