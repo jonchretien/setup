@@ -9,5 +9,9 @@
 
 ## Homebrew
 [Homebrew](http://brew.sh/)
-  - wget: `brew install wget`
-  - jq: `brew install jq`
+* [ack](https://beyondgrep.com/)
+* [ag](https://github.com/ggreer/the_silver_searcher)
+* [ffmpeg](http://ffmpeg.org/)
+* [fzf](https://github.com/junegunn/fzf)
+* [jq](https://stedolan.github.io/jq)
+* [wget](http://www.gnu.org/software/wget/)
