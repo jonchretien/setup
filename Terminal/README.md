@@ -2,6 +2,7 @@
 
 ## [Git](http://git-scm.com/downloads)
 * [Github access token](https://help.github.com/articles/creating-an-access-token-for-command-line-use/)
+* [Conditional Includes For Git Config](https://www.motowilliams.com/conditional-includes-for-git-config)
 
 ## [dotfiles](https://github.com/jonchretien/dotfiles)
 
