@@ -57,7 +57,7 @@ with this conditional
 
 Then I add two additional sibling files to my profile root directory, next to my .gitconfig.
 
-For my personal & open source work I have my non-work values in a .gitconfig-personal file.
+For my private & open source work I have my non-work values in a .gitconfig-private file.
 
 ```bash
 [user]
@@ -78,7 +78,10 @@ So that I end up with these files in my profile root.
 ```bash
 C:\users\jon\
 ├───.gitconfig
-├───.gitconfig-personal
+├───.gitconfig-deprecated
+├───.gitconfig-private
+├───.gitconfig-oss
+├───.gitconfig-todo
 └───.gitconfig-work
 ```
 
