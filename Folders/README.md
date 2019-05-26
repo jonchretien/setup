@@ -45,10 +45,14 @@ email = user@example.com
 with this conditional
 
 ```bash
-[includeIf "gitdir:~/code/"]
-  path = .gitconfig-personal
+[includeIf "gitdir:~/code/oss/"]
+	path = .gitconfig-oss
+[includeIf "gitdir:~/code/private/"]
+	path = .gitconfig-private
+[includeIf "gitdir:~/code/todo/"]
+	path = .gitconfig-todo
 [includeIf "gitdir:~/code/work/"]
-  path = .gitconfig-work
+	path = .gitconfig-work
 ```
 
 Then I add two additional sibling files to my profile root directory, next to my .gitconfig.
