@@ -8,16 +8,17 @@ A running list of software and preferences for my development machine.
 
 1. [System](System/README.md)
 2. [Xcode](Xcode/README.md)
-3. [Terminal](Terminal/README.md)
-4. [Browsers](Browsers/README.md)
-5. [Text Editors](TextEditors/README.md)
-6. [Ruby](Ruby/README.md)
-7. [Rails](Rails/README.md)
-8. [Node](Node/README.md)
-9. [Yarn](Yarn/README.md)
-10. [Python](Python/README.md)
-11. [Django](Django/README.md)
-12. [Apps](Apps/README.md)
+3. [Folder Structure](Folders/README.md)
+4. [Terminal](Terminal/README.md)
+5. [Browsers](Browsers/README.md)
+6. [Text Editors](TextEditors/README.md)
+7. [Ruby](Ruby/README.md)
+8. [Rails](Rails/README.md)
+9. [Node](Node/README.md)
+10. [Yarn](Yarn/README.md)
+11. [Python](Python/README.md)
+12. [Django](Django/README.md)
+13. [Apps](Apps/README.md)
 
 ## Inspiration
 
