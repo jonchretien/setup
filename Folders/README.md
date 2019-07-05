@@ -37,6 +37,18 @@ Tip from [@roelvangils](https://twitter.com/roelvangils/status/11130744399760752
 
 > Does your Mac becomes slow/unresponsive (fans kicking in etc.) when you `npm install` a huge project with a million tiny dependencies? I learned that adding an empty `.metadata_never_index` in /node_modules *beforehand* will prevent Spotlight from indexing all that crap.
 
+As an alternate, there's a command line fix from this [yarn issue](https://github.com/yarnpkg/yarn/issues/6453#issuecomment-476048618):
+
+```bash
+find . -type d -name "node_modules" -exec touch "{}/.metadata_never_index" \;
+```
+
+And as a bash alias:
+
+```bash
+alias fix-spotlight='find . -type d -name "node_modules" -exec touch "{}/.metadata_never_index" \;'
+```
+
 ## Conditional Includes For Git Config
 *Mainly taken from [Eric William's blog](https://www.motowilliams.com/conditional-includes-for-git-config).*
 
