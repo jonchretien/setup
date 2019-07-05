@@ -1,5 +1,5 @@
 # Folder Structure
-Mostly taken from https://github.com/sindresorhus/ama/issues/557:
+Mostly taken from [@sindresorhus](https://github.com/sindresorhus/ama/issues/557):
 
 ```
 .
@@ -30,6 +30,12 @@ Mostly taken from https://github.com/sindresorhus/ama/issues/557:
 * **todo:** Projects I started but never finished enough to publish.
 * **work:** Projects for my day job.
 * **scratchpad.md:** Random ideas and todos.
+
+## Prevent Spotlight from indexing files in `code`.
+
+Tip from [@roelvangils](https://twitter.com/roelvangils/status/1113074439976075264):
+
+> Does your Mac becomes slow/unresponsive (fans kicking in etc.) when you `npm install` a huge project with a million tiny dependencies? I learned that adding an empty `.metadata_never_index` in /node_modules *beforehand* will prevent Spotlight from indexing all that crap.
 
 ## Conditional Includes For Git Config
 *Mainly taken from [Eric William's blog](https://www.motowilliams.com/conditional-includes-for-git-config).*
