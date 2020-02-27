@@ -27,3 +27,4 @@ A running list of software and preferences for my development machine.
 * Nicolas Hery's [Mac OS X Dev Setup](https://github.com/nicolashery/mac-dev-setup)
 * Sourabh Bajaj's [Mac Setup Guide](https://github.com/sb2nov/mac-setup).
 * [Set Up Your Mac Like an Interactive News Developer](https://open.nytimes.com/set-up-your-mac-like-an-interactive-news-developer-bb8d2c4097e5)
+* [Setting up a Brand New Mac for Development](https://www.taniarascia.com/setting-up-a-brand-new-mac-for-development/)
