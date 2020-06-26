@@ -3,7 +3,8 @@
 ## [Visual Studio Code](https://code.visualstudio.com)
 
 ### Settings
-  * [User Settings](https://gist.github.com/jonchretien/b50044d4adf151edfebe8232897f9de5)
+* [Install shell command](https://code.visualstudio.com/docs/setup/mac#_launching-from-the-command-line)
+* [User Settings](https://gist.github.com/jonchretien/b50044d4adf151edfebe8232897f9de5)
 
 ### Packages
 ```bash
