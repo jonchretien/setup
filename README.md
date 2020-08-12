@@ -1,4 +1,4 @@
-# Setting up a new machine
+# 🧰 Setting up a new machine
 
 A running list of software and preferences for my development machine.
 
