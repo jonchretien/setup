@@ -11,7 +11,7 @@ A running list of software and preferences for my development machine.
   - [Step 1: macOS Settings](#step-1-macos-settings)
     - [System Update](#system-update)
     - [Security](#security)
-    - [System preferences](#system-preferences)
+    - [System Settings](#system-settings)
   - [Step 2: Command Line](#step-2-command-line)
     - [Python 3](#python-3)
   - [Step 3: Folder Structure](#step-3-folder-structure)
@@ -33,7 +33,7 @@ First thing you need to do, on any OS actually, is update the system! For that: 
 
 I recommend checking that basic security settings are enabled. You will be happy to have done so if ever your Mac is lost or stolen.
 
-In **Apple Icon > System Preferences**:
+In **Apple Icon > System Settings**:
 
 - Users & Groups: If you haven't already set a password for your user during the initial set up, you should do so now
 - Security & Privacy > General: Require password immediately after sleep or screen saver begins (you can keep a grace period of a couple minutes if you prefer, but I like to know that my computer locks as soon as I close it)
@@ -41,11 +41,11 @@ In **Apple Icon > System Preferences**:
 - iCloud: If you haven't already done so during set up, enable Find My Mac
 - Enable Firewall settings
 
-### System preferences
+### System Settings
 
-If this is a new computer, there are a couple of tweaks I like to make to the System Preferences. Feel free to follow these, or to ignore them, depending on your personal preferences.
+If this is a new computer, there are a couple of tweaks I like to make to the System Settings. Feel free to follow these, or to ignore them, depending on your personal preferences.
 
-In **Apple Icon > System Preferences**:
+In **Apple Icon > System Settings**:
 
 - Trackpad > Tap to click
 - Keyboard > Key Repeat > Fast (all the way to the right)
@@ -54,7 +54,7 @@ In **Apple Icon > System Preferences**:
 
 **Screen Saver**
 
-Start after 5 minutes. _Hot Corners_ set to lower left hand side ("Start Screen Saver").
+Start after 5 minutes. _Hot Corners_ set to lower left hand side ("Start Screen Saver"). Also set up [modifier keys](https://www.macrumors.com/how-to/macos-set-up-hot-corners-modifier-keys/)
 
 **Dock**
 - Automatically hide and show Dock
