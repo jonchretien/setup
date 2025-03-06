@@ -293,3 +293,4 @@ yzhang.markdown-all-in-one
 - Sourabh Bajaj's [Mac Setup Guide](https://github.com/sb2nov/mac-setup).
 - [Set Up Your Mac Like an Interactive News Developer](https://open.nytimes.com/set-up-your-mac-like-an-interactive-news-developer-bb8d2c4097e5)
 - [Setting up a Brand New Mac for Development](https://www.taniarascia.com/setting-up-a-brand-new-mac-for-development/)
+- [How I Set Up A New Laptop](https://henry.codes/writing/how-i-set-up-a-new-laptop/)
